@@ -1,6 +1,6 @@
 ## Anthropic – Building Effective Agents
 
-**Link:** https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
+**Link:** https://www.anthropic.com/engineering/building-effective-agents
 
 
 
